@@ -1,6 +1,3 @@
-/*
-全局样式
-*/
 @font-face {
   font-family: "iconfont";
   src: url('//at.alicdn.com/t/font_2181808_ywmsexw8gsb.eot?t=1604499137069');
@@ -71,7 +68,4 @@
 }
 .iconshipin:before {
   content: "\e613";
-}
-body {
-  background-color: #fff;
 }
